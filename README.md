@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0169-majority-element) |
+| [1480-running-sum-of-1d-array](https://github.com/prithvi-raj-thakur/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/prithvi-raj-thakur/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/prithvi-raj-thakur/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/prithvi-raj-thakur/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
