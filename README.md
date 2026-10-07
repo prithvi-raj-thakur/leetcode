@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0189-rotate-array) |
@@ -87,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
