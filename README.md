@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0189-rotate-array) |
@@ -106,5 +108,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
