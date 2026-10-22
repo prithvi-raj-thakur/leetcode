@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0189-rotate-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/prithvi-raj-thakur/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0101-symmetric-tree) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
