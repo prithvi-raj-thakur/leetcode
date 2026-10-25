@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0367-valid-perfect-square) |
 | [3875-construct-uniform-parity-array-i](https://github.com/prithvi-raj-thakur/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0342-power-of-four) |
 ## Tree
 |  |
 | ------- |
