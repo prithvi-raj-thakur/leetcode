@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0202-happy-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0367-valid-perfect-square) |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0069-sqrtx) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
