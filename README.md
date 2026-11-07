@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0367-valid-perfect-square) |
 | [3875-construct-uniform-parity-array-i](https://github.com/prithvi-raj-thakur/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -201,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/prithvi-raj-thakur/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
